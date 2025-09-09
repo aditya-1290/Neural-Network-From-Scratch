@@ -41,10 +41,10 @@
 - [x] lenet5_from_scratch.py: LeNet-5 on MNIST
 
 ## 08_recurrent_neural_networks
-- [ ] rnn_cell.py: Core RNN cell
-- [ ] vanilla_rnn.py: Multi-step RNN layer
-- [ ] lstm_cell.py: LSTM cell with gates
-- [ ] gru_cell.py: GRU cell
+- [x] rnn_cell.py: Core RNN cell
+- [x] vanilla_rnn.py: Multi-step RNN layer
+- [x] lstm_cell.py: LSTM cell with gates
+- [x] gru_cell.py: GRU cell
 
 ## 09_modern_architectures
 - [ ] self_attention.py: Single and multi-head attention
