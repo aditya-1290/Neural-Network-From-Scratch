@@ -1,9 +1,9 @@
 # TODO List for Neural Networks from Scratch
 
 ## 01_neurons_and_activation_functions
-- [ ] artificial_neuron.py: Implement single neuron with inputs, weights, bias, output
-- [ ] activation_functions.py: Sigmoid, Tanh, ReLU, Leaky ReLU, Softmax
-- [ ] derivatives_of_activations.py: Compute and plot gradients
+- [x] artificial_neuron.py: Implement single neuron with inputs, weights, bias, output
+- [x] activation_functions.py: Sigmoid, Tanh, ReLU, Leaky ReLU, Softmax
+- [x] derivatives_of_activations.py: Compute and plot gradients
 
 ## 02_loss_functions
 - [ ] mean_squared_error.py: MSE for regression
