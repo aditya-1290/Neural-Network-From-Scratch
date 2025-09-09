@@ -19,14 +19,14 @@
 
 ## 04_building_a_network
 - [x] dense_layer.py: Fully-connected layer
-- [ ] neural_network.py: Class combining multiple layers
-- [ ] forward_pass.py: Full forward propagation
-- [ ] backward_pass.py: Backpropagation with chain rule
+- [x] neural_network.py: Class combining multiple layers
+- [x] forward_pass.py: Full forward propagation
+- [x] backward_pass.py: Backpropagation with chain rule
 
 ## 05_putting_it_all_together
-- [ ] linear_regression_nn.py: Train network for linear regression
-- [ ] binary_classifier_nn.py: Train for binary classification (XOR)
-- [ ] multi_class_classifier_nn.py: Train on Iris/MNIST with Softmax
+- [x] linear_regression_nn.py: Train network for linear regression
+- [x] binary_classifier_nn.py: Train for binary classification (XOR)
+- [x] multi_class_classifier_nn.py: Train on Iris/MNIST with Softmax
 
 ## 06_improving_training
 - [ ] weight_initialization.py: Zero, Random, Xavier, He init
@@ -61,5 +61,5 @@
 - [x] Create directory structure
 - [x] Create README.md
 - [x] Create requirements.txt
-- [ ] Install dependencies
+- [x] Install dependencies
 - [ ] Test implementations
