@@ -6,7 +6,7 @@ import os
 # Add the parent directory to the path to import modules
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 
-from neural_networks_from_scratch import NeuralNetwork
+from neural_networks_from_scratch.iv_building_a_network import NeuralNetwork
 from neural_networks_from_scratch import mean_squared_error, mse_derivative
 
 def generate_linear_data(n_samples=100, noise=0.1):
