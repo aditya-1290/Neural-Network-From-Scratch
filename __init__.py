@@ -1,3 +1,3 @@
-from . import NeuralNetwork 
-from . import DenseLayer
-from . import ArtificialNeuron 
+from iv_building_a_network import NeuralNetwork, DenseLayer 
+from i_neurons_and_activation_functions import ArtificialNeuron 
+from ii_loss_functions import mean_squared_error, categorical_cross_entropy, mse_derivative
