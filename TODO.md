@@ -11,8 +11,8 @@
 - [x] categorical_cross_entropy.py: CCE for multi-class classification
 
 ## 03_gradient_descent
-- [ ] vanilla_gradient_descent.py: Basic GD on simple function
-- [ ] stochastic_gradient_descent.py: SGD with mini-batches
+- [x] vanilla_gradient_descent.py: Basic GD on simple function
+- [x] stochastic_gradient_descent.py: SGD with mini-batches
 - [ ] momentum.py: GD with momentum
 - [ ] rmsprop.py: RMSProp optimizer
 - [ ] adam.py: Adam optimizer
