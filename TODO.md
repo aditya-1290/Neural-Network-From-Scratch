@@ -47,8 +47,8 @@
 - [x] gru_cell.py: GRU cell
 
 ## 09_modern_architectures
-- [ ] self_attention.py: Single and multi-head attention
-- [ ] transformer_block.py: Transformer encoder block
+- [x] self_attention.py: Single and multi-head attention
+- [x] transformer_block.py: Transformer encoder block
 - [ ] unet_segmentation.py: U-Net for segmentation
 - [ ] vae.py: Variational Autoencoder
 
