@@ -29,10 +29,10 @@
 - [x] multi_class_classifier_nn.py: Train on Iris/MNIST with Softmax
 
 ## 06_improving_training
-- [ ] weight_initialization.py: Zero, Random, Xavier, He init
-- [ ] batch_normalization.py: BatchNorm layer
-- [ ] dropout.py: Dropout layer
-- [ ] l1_l2_regularization.py: L1/L2 penalty
+- [x] weight_initialization.py: Zero, Random, Xavier, He init
+- [x] batch_normalization.py: BatchNorm layer
+- [x] dropout.py: Dropout layer
+- [x] l1_l2_regularization.py: L1/L2 penalty
 
 ## 07_convolutional_neural_networks
 - [ ] im2col.py: im2col algorithm
