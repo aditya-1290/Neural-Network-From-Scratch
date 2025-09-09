@@ -6,9 +6,9 @@
 - [x] derivatives_of_activations.py: Compute and plot gradients
 
 ## 02_loss_functions
-- [ ] mean_squared_error.py: MSE for regression
-- [ ] binary_cross_entropy.py: BCE for binary classification
-- [ ] categorical_cross_entropy.py: CCE for multi-class classification
+- [x] mean_squared_error.py: MSE for regression
+- [x] binary_cross_entropy.py: BCE for binary classification
+- [x] categorical_cross_entropy.py: CCE for multi-class classification
 
 ## 03_gradient_descent
 - [ ] vanilla_gradient_descent.py: Basic GD on simple function
