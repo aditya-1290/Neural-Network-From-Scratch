@@ -13,7 +13,7 @@
 ## 03_gradient_descent
 - [x] vanilla_gradient_descent.py: Basic GD on simple function
 - [x] stochastic_gradient_descent.py: SGD with mini-batches
-- [ ] momentum.py: GD with momentum
+- [x] momentum.py: GD with momentum
 - [ ] rmsprop.py: RMSProp optimizer
 - [ ] adam.py: Adam optimizer
 
