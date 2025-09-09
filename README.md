@@ -84,7 +84,7 @@ The following implementations have been tested and verified to work correctly:
 
 ### 📊 Visualization Outputs
 
-All visualization outputs are saved in the `visualizations/` directory:
+All visualization outputs are saved in their own directory:
 - Gradient descent optimization paths
 - Loss curves and convergence plots
 - Activation function plots
@@ -96,4 +96,3 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-**07_convolutional_neural_networks**
