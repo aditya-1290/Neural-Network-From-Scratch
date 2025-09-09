@@ -70,4 +70,5 @@ if __name__ == "__main__":
     plt.legend()
 
     plt.tight_layout()
+    plt.savefig('gradient_descent_optimization.png')
     plt.show()

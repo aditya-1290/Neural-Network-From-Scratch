@@ -92,4 +92,6 @@ if __name__ == "__main__":
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
     plt.title('SGD Loss Convergence')
+    plt.tight_layout()
+    plt.savefig('sgd_loss_convergence.png')
     plt.show()

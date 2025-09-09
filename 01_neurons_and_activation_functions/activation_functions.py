@@ -66,4 +66,5 @@ if __name__ == "__main__":
     plt.legend()
 
     plt.tight_layout()
+    plt.savefig('activation_functions.png')
     plt.show()

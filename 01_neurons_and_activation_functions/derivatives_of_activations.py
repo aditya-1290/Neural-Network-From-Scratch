@@ -62,6 +62,7 @@ if __name__ == "__main__":
     plt.title("Softmax Derivative (approx)")
 
     plt.tight_layout()
+    plt.savefig('derivatives_individual.png')
     plt.show()
 
     # Also plot activation and derivative together for comparison
@@ -79,4 +80,5 @@ if __name__ == "__main__":
         plt.legend()
 
     plt.tight_layout()
+    plt.savefig('activation_derivative_comparison.png')
     plt.show()
