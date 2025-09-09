@@ -49,12 +49,12 @@
 ## 09_modern_architectures
 - [x] self_attention.py: Single and multi-head attention
 - [x] transformer_block.py: Transformer encoder block
-- [ ] unet_segmentation.py: U-Net for segmentation
-- [ ] vae.py: Variational Autoencoder
+- [x] unet_segmentation.py: U-Net for segmentation
+- [x] vae.py: Variational Autoencoder
 
 ## 10_applications_and_transfer_learning
-- [ ] transfer_learning_cv.py: Fine-tune ResNet/VGG
-- [ ] fine_tuning_bert.py: Fine-tune BERT
+- [x] transfer_learning_cv.py: Fine-tune ResNet/VGG
+- [x] fine_tuning_bert.py: Fine-tune BERT
 - [ ] style_transfer.py: Neural style transfer
 
 ## General
