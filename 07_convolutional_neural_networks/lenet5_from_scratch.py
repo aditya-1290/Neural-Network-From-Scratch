@@ -5,9 +5,9 @@ import os
 # Add the parent directory to the path to import modules
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 
-from neural_networks_from_scratch.07_convolutional_neural_networks.conv2d_layer import Conv2DLayer
-from neural_networks_from_scratch.07_convolutional_neural_networks.max_pooling_layer import MaxPoolingLayer
-from neural_networks_from_scratch.04_building_a_network.dense_layer import DenseLayer
+from neural_networks_from_scratch import Conv2DLayer
+from neural_networks_from_scratch import MaxPoolingLayer
+from neural_networks_from_scratch import DenseLayer
 
 class LeNet5:
     """

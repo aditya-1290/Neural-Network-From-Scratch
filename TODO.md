@@ -35,10 +35,10 @@
 - [x] l1_l2_regularization.py: L1/L2 penalty
 
 ## 07_convolutional_neural_networks
-- [ ] im2col.py: im2col algorithm
-- [ ] conv2d_layer.py: Convolutional layer
-- [ ] max_pooling_layer.py: Max pooling layer
-- [ ] lenet5_from_scratch.py: LeNet-5 on MNIST
+- [x] im2col.py: im2col algorithm
+- [x] conv2d_layer.py: Convolutional layer
+- [x] max_pooling_layer.py: Max pooling layer
+- [x] lenet5_from_scratch.py: LeNet-5 on MNIST
 
 ## 08_recurrent_neural_networks
 - [ ] rnn_cell.py: Core RNN cell
