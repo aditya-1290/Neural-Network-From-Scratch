@@ -14,11 +14,11 @@
 - [x] vanilla_gradient_descent.py: Basic GD on simple function
 - [x] stochastic_gradient_descent.py: SGD with mini-batches
 - [x] momentum.py: GD with momentum
-- [ ] rmsprop.py: RMSProp optimizer
-- [ ] adam.py: Adam optimizer
+- [x] rmsprop.py: RMSProp optimizer
+- [x] adam.py: Adam optimizer
 
 ## 04_building_a_network
-- [ ] dense_layer.py: Fully-connected layer
+- [x] dense_layer.py: Fully-connected layer
 - [ ] neural_network.py: Class combining multiple layers
 - [ ] forward_pass.py: Full forward propagation
 - [ ] backward_pass.py: Backpropagation with chain rule
